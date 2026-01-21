@@ -1,0 +1,57 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+}
+
+header {
+    background-color: #222;
+    color: rgb(255, 255, 255);
+    padding: 20px;
+    text-align: center;
+}
+
+
+.bento-container {
+    max-width: 1000px;
+    margin: 30px auto;
+    padding: 20px;
+
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+
+.bento-item {
+    background-color: rgb(255, 255, 255);
+    padding: 20px;
+    border-radius: 16px;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.08);
+
+    flex: 1 1 300px; /* base bento */
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.bento-item:first-child {
+    flex: 2 1 500px;
+}
+
+h2 {
+    margin-top: 0;
+}
+
+a {
+    color: #0066cc;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+p {
+    color: #444;
+}
