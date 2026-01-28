@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>DOMO</title>
+    
+    <description>
+      A Journal exploring the boundaries between virtual and physical life.
+    </description>
+    <language>en</language>
+
+    <item>
+      <title>Stardew Valley: The Design of Slow Life</title>
+      <link>https://www.DOMO.com/stardew-valley-review</link>
+      <guid>https://www.DOMO.com/stardew-valley-review</guid>
+      <description>
+        Review of the design and development process of the video game Stardew Valley
+      </description>
+    </item>
+
+    <item>
+      <title>Itch.io: The New Geography</title>
+      <link>https://www.DOMO.com/fast-guide-itchio</link>
+      <guid>https://www.DOMO.com/fast-guide-itchio</guid>
+      <description>
+        The Indie Underground: A global community of creators where the most unique, experimental, and hand-crafted games find their home.
+      </description>
+    </item>
+
+    <item>
+      <title>GameAwards 2026</title>
+      <link>https://www.DOMO.com/game-awards-2026</link>
+      <guid>https://www.DOMO.com/game-awards-2026</guid>
+      <description>
+        After its long-awaited release, Grand Theft Auto VI is expected to be the center of gravity for the 2026 ceremony. All eyes will be on whether Rockstar Games can secure a historic Game of the Year sweep or if a daring indie underdog will pull off the ultimate upset.
+      </description>
+    </item>
+
+    <item>
+      <title>Blasphemous: Sacred Art</title>
+      <link>https://www.DOMO.com/blasphemous-sacred-art</link>
+      <guid>https://www.DOMO.com/blasphemous-sacred-art</guid>
+      <description>
+        Penance Never Ends: A twisted journey through a world of nightmare religion and brutal beauty.
+      </description>
+    </item>
+
+  </channel>
+</rss>
