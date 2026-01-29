@@ -1,6 +1,5 @@
 # DOMO — Journal for Digital & Physical Life
 
-![Project Banner](https://via.placeholder.com/1000x300?text=DOMO+MAGAZINE)
 
 This repository contains our **Content Syndication Project** for the Markup Languages course. We have developed a minimalist digital magazine focused on Indie Game culture, fully integrated with a functional RSS news feed.
 
@@ -14,7 +13,7 @@ Below are the details regarding the project requirements:
 | **Syndication Format** | **RSS 2.0** (Validated). |
 | **Hosting Platform** | **GitHub Pages**. |
 | **Aggregator Used** | **Feedly**. |
-| **Web URL** | **[INSERT_YOUR_GITHUB_PAGES_LINK_HERE]** |
+| **Web URL** | **https://whoischabola.github.io/rss_videojuegos_indie/** |
 | **Feed URL** | `[INSERT_YOUR_GITHUB_PAGES_LINK_HERE]/feed.rss` |
 
 ---
