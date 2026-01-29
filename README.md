@@ -54,17 +54,6 @@ We aimed to merge our individual work into the `DEV` branch to consolidate chang
 
 ---
 
-## 📡 How to Subscribe (Feedly Test)
-
-To verify the RSS feed functionality using an aggregator:
-
-1. Go to [Feedly](https://feedly.com/).
-2. In the search bar or "Follow new sources", paste the direct URL of our feed:
-   `https://[YOUR_USERNAME].github.io/[YOUR_REPO_NAME]/feed.rss`
-3. You should see the latest DOMO articles (Stardew Valley, Itch.io, GameAwards, etc.) ready to be read.
-
----
-
 ## 👥 Authors
 
 Project created by:
