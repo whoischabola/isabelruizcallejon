@@ -13,7 +13,7 @@ Below are the details regarding the project requirements:
 | **Syndication Format** | **RSS 2.0** (Validated). |
 | **Hosting Platform** | **GitHub Pages**. |
 | **Aggregator Used** | **Feedly**. |
-| **Web URL** | **https://whoischabola.github.io/rss_videojuegos_indie/** |
+| **Web URL** | **https://whoischabola.github.io/isabelruizcallejon/** |
 | **Feed URL** | **https://whoischabola.github.io/isabelruizcallejon/** |
 
 ---
