@@ -14,7 +14,7 @@ Below are the details regarding the project requirements:
 | **Hosting Platform** | **GitHub Pages**. |
 | **Aggregator Used** | **Feedly**. |
 | **Web URL** | **https://whoischabola.github.io/rss_videojuegos_indie/** |
-| **Feed URL** | `[INSERT_YOUR_GITHUB_PAGES_LINK_HERE]/feed.rss` |
+| **Feed URL** | **whoischabola.github.io/isabelruizcallejon/** |
 
 ---
 
@@ -31,7 +31,7 @@ The project consists of the following core files:
 
 * `index.html`: The Landing Page containing the semantic structure of the magazine, including the header, navigation, and article sections.
 * `styles.css`: The stylesheet featuring responsive design (CSS Grid & Flexbox) and custom hover effects.
-* `feed.rss`: The XML file structured under the RSS 2.0 standard.
+* `feed.xml`: The XML file structured under the RSS 2.0 standard.
 
 ### Validation
 The RSS file structure has been validated using [XMLValidation.com](https://www.xmlvalidation.com/), ensuring all `<channel>`, `<item>`, and `<guid>` elements comply with the standard.
